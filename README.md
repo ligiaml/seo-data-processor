@@ -24,10 +24,10 @@ Principais métricas calculadas por domínio:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/seuusuario/seuprojeto.git
+git clone https://github.com/ligiaml/seo-data-processor.git
 
 # Entrar na pasta do projeto
-cd seuprojeto
+cd seo-data-processor
 
 # Instalar dependências
 pnpm install
